@@ -2,22 +2,22 @@
 Diseño y construcción de estación para el monitoreo de temperatura, humedad, gases y la densidad de polvo en mina subterránea haciendo uso de sensores de bajo costo
 ## Lenguajes empleados:
 
-Python
+-Python
 
-C++
+-C++
 
 ## IDE usados:
-vscode
+-vscode
 
-IDE Arduino
+-IDE Arduino
 ### Librerias necesarias:
 
-serial
+-serial
 
-xlwt
+-xlwt
 
-datetime
+-datetime
 
-string
+-string
 
-excel
+-excel
